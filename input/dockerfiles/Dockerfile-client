@@ -1,4 +1,4 @@
-FROM rubeneschauzier/updated-join-rl-training-image:v2
+FROM rubeneschauzier/updated-join-rl-training-image:V4.0
 
 ARG CONFIG_CLIENT
 ARG QUERY_TIMEOUT
