@@ -1,4 +1,4 @@
-FROM rubeneschauzier/updated-join-rl-training-image:V4.0
+FROM comunica/query-sparql-file:V5.0.2
 
 ARG CONFIG_CLIENT
 ARG QUERY_TIMEOUT
