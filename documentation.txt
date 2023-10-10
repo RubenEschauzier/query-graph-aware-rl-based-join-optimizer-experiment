@@ -1,0 +1,1 @@
+Set rights to 777 for output/outputTraining so we can write to it
