@@ -29,7 +29,7 @@
     "contextClient": "input/context-client.json",
     "additionalBinds": 
     ["/generated/dataset.nt:/tmp/dataset.nt",
-     "/output/outputTraining:/tmp/training",
+     "/output/training:/tmp/training",
      "/input/model-config:/tmp/model-config" 
   ],
     "clientPort": 3001,
