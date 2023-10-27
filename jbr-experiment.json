@@ -33,7 +33,7 @@
      "/input/model-config:/tmp/model-config" 
   ],
     "clientPort": 3001,
-    "clientLogLevel": "debug",
+    "clientLogLevel": "warn",
     "queryTimeout": 300,
     "maxMemory": 8192
   }

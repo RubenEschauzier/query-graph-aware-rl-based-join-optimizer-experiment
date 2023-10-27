@@ -1,4 +1,4 @@
-FROM comunica/query-sparql-file:A0.0.1
+FROM comunica/query-sparql-file:A0.0.9
 ARG CONFIG_CLIENT
 ARG QUERY_TIMEOUT
 ARG MAX_MEMORY
